@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 //By Lucas Frias
 //inspiration used for this code
 //https://www.geeksforgeeks.org/c/c-bitmasking//

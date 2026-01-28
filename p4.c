@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 //Lucas Frias
 int main() {
 	//start with our hex number
